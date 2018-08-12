@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 8dc04095c8b2f4343b0b5b7ecb658d68
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d66f12255a787cd4883be409c59476e3
+  longitude: 2.1500148966667467
+  latitude: 41.37051496261251
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -41.884377, y: 22.25975, z: 94.55835}
+      lookAt: {x: 54.110977, y: -49.90659, z: -125.42964}
+      up: {x: 0.1151583, y: 0.9576502, z: -0.26390278}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Image 2
+    100004: Image 3
+    100006: Image 4
+    100008: Image 5
+    100010: //RootNode
+    100012: pe_banco
+    100014: pe_banco 1
+    100016: pe_banco 2
+    100018: pe_banco 3
+    100020: pe_banco 4
+    100022: pe_banco 5
+    100024: pe_banco 6
+    100026: pe_banco 7
+    100028: pe_banco 8
+    100030: pilar
+    100032: pilar 1
+    100034: pilar 2
+    100036: pilar 3
+    100038: pilar 4
+    100040: pilar 5
+    100042: pilar 6
+    100044: pilar 7
+    400000: Component#1
+    400002: Image 2
+    400004: Image 3
+    400006: Image 4
+    400008: Image 5
+    400010: //RootNode
+    400012: pe_banco
+    400014: pe_banco 1
+    400016: pe_banco 2
+    400018: pe_banco 3
+    400020: pe_banco 4
+    400022: pe_banco 5
+    400024: pe_banco 6
+    400026: pe_banco 7
+    400028: pe_banco 8
+    400030: pilar
+    400032: pilar 1
+    400034: pilar 2
+    400036: pilar 3
+    400038: pilar 4
+    400040: pilar 5
+    400042: pilar 6
+    400044: pilar 7
+    2100000: _defaultMat
+    2100002: '[Color_007]'
+    2100004: '[Concrete_Stamped_Ashlar]'
+    2100006: '[Translucent_Glass_Blue]'
+    2100008: '[Color_E05]1'
+    2100010: '[Translucent_Glass_Gray]1'
+    2100012: '[Stone_Marble]'
+    2100014: '[Concrete_Stamped_Ashlar]1'
+    2100016: '[Water_Pool_Light]'
+    2100018: '[Groundcover_RiverRock_4inch]'
+    2100020: '[Color_E05]2'
+    2100022: '[Stone_Marble]1'
+    2100024: '[Concrete_Stamped_Ashlar]2'
+    2100026: '[Color_D05]'
+    2100028: '[Translucent_Glass_Gray]'
+    2100030: '[Color_008]'
+    2100032: Image1
+    2100034: '[Color_000]'
+    2100036: Material 18
+    2100038: Material 19
+    2100040: Material 20
+    2100042: Material 21
+    2100044: '[Metal_Corrogated_Shiny]'
+    2100046: _2
+    2300000: Component#1
+    2300002: Image 2
+    2300004: Image 3
+    2300006: Image 4
+    2300008: Image 5
+    2300010: //RootNode
+    2300012: pe_banco
+    2300014: pe_banco 1
+    2300016: pe_banco 2
+    2300018: pe_banco 3
+    2300020: pe_banco 4
+    2300022: pe_banco 5
+    2300024: pe_banco 6
+    2300026: pe_banco 7
+    2300028: pe_banco 8
+    2300030: pilar
+    2300032: pilar 1
+    2300034: pilar 2
+    2300036: pilar 3
+    2300038: pilar 4
+    2300040: pilar 5
+    2300042: pilar 6
+    2300044: pilar 7
+    3300000: Component#1
+    3300002: Image 2
+    3300004: Image 3
+    3300006: Image 4
+    3300008: Image 5
+    3300010: //RootNode
+    3300012: pe_banco
+    3300014: pe_banco 1
+    3300016: pe_banco 2
+    3300018: pe_banco 3
+    3300020: pe_banco 4
+    3300022: pe_banco 5
+    3300024: pe_banco 6
+    3300026: pe_banco 7
+    3300028: pe_banco 8
+    3300030: pilar
+    3300032: pilar 1
+    3300034: pilar 2
+    3300036: pilar 3
+    3300038: pilar 4
+    3300040: pilar 5
+    3300042: pilar 6
+    3300044: pilar 7
+    4300000: Mesh MIES2015
+    4300002: Mesh MIES2015
+    4300004: Mesh MIES2015
+    4300006: Mesh MIES2015
+    4300008: Mesh MIES2015
+    4300010: Mesh pe_banco
+    4300012: Mesh pilar
+    4300014: Mesh Component#1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
