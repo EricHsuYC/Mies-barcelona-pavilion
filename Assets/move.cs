@@ -18,8 +18,8 @@ public class move : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        var dist = Vector3.Distance(Camera.main.transform.position, this.transform.position);
-        transform.position = new Vector3(0,dist,0);
+        var dist = Vector3.Distance(Camera.main.transform.position, transform.position);
+        transform.position = new Vector3(transform.position.x,dist,transform.position.z);
 
     }
 }
